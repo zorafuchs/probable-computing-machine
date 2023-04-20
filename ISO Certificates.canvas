@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"e8eb45b10ee9fc0b","x":-180,"y":-340,"width":250,"height":60,"type":"text","text":"ISO-Zertifizierungen"},
+		{"id":"36dcb80d052bab1e","x":-540,"y":-100,"width":452,"height":375,"type":"file","file":"_assets/PDF/ISF_FS23_SW04.pdf"},
+		{"id":"e1abf118009af724","x":180,"y":-340,"width":420,"height":420,"type":"file","file":"ISO27001.md"}
+	],
+	"edges":[
+		{"id":"b4013a9d4c4db8ee","fromNode":"36dcb80d052bab1e","fromSide":"right","toNode":"e1abf118009af724","toSide":"left","label":"ISO"}
+	]
+}
