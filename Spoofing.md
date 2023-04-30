@@ -1,7 +1,8 @@
 ---
 aliases: 
 - Täuschung
-tags:  
+tags:
+- public
 - knowledge
 title: Spoofing
 date created: "2023-03-21T07:44:18"

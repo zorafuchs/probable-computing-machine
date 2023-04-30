@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags:
+- public
 - knowledge
 title: ISO-Zertifikation
 date created: "2023-02-27T01:17:11"

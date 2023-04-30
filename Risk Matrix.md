@@ -1,7 +1,7 @@
 ---
 aliases: 
 - Risikomatrix
-tags:  
+tags:
 - public
 - knowledge
 title: Risk Matrix

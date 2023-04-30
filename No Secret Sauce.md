@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags:
+- public
 - knowledge
 title: No Secret Sauce
 date created: "2023-03-21T08:32:40"

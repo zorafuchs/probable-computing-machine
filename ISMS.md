@@ -1,7 +1,8 @@
 ---
 aliases: 
 - Information Security Management System
-tags: 
+tags:
+- public
 - knowledge
 title: ISMS
 date created: "2023-02-21T07:52:27"

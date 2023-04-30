@@ -1,7 +1,8 @@
 ---
 aliases: 
 - Integrität
-tags:  
+tags:   
+- public
 - knowledge
 title: Integrity
 date created: "2023-03-21T07:06:04"

@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags:
+- public
 - knowledge
 - flashcards/spta
 title: Urheberrecht

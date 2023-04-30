@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags:  
+tags:
+- public
 - knowledge
 title: STRIDE
 date created: "2023-03-21T07:43:00"

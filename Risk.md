@@ -1,6 +1,6 @@
 ---
 aliases: Risiko
-tags:   
+tags:
 - public
 - knowledge
 title: Risk

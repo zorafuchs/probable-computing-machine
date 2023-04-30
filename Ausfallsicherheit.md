@@ -1,7 +1,8 @@
 ---
 aliases: 
-tags: 
+tags:  
 - public
+- knowledge
 title: Ausfallsicherheit
 date created: "2023-02-21T08:33:54"
 date modified: "2023-02-21T08:33:56"

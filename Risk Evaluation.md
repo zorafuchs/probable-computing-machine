@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: 
+tags:
+- public
+- knowledge
 title: Risk Evaluation
 date created: "2023-03-07T05:06:07"
 date modified: "2023-03-07T05:09:52"

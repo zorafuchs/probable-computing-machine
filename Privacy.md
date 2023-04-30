@@ -1,7 +1,7 @@
 ---
 aliases: 
 - Privatsphäre
-tags:  
+tags:
 - public
 - knowledge
 title: Privacy

@@ -1,7 +1,9 @@
 ---
 aliases: 
 - National Institute of Standards and Technology
-tags: 
+tags:
+- public
+- knowledge
 title: NIST
 date created: "2023-03-14T07:09:00"
 date modified: "2023-03-14T07:11:03"

@@ -1,12 +1,12 @@
 ---
 aliases: 
 - Würmer
-tags:  
+tags:
 - public
 - knowledge
 title: Worms
 date created: "2023-02-25T10:32:51"
-date modified: "2023-04-20T07:27:18"
+date modified: "2023-04-30T10:35:10"
 ---
 
 # Worms

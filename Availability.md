@@ -1,7 +1,8 @@
 ---
 aliases: 
 - Verfügbarkeit
-tags:  
+tags:   
+- public
 - knowledge
 title: Availability
 date created: "2023-03-21T07:06:12"

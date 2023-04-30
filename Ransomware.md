@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags:  
+tags:
 - public
 - knowledge
 title: Ransomware

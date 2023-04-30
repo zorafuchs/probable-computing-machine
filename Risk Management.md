@@ -1,7 +1,7 @@
 ---
 aliases: 
 - Risiko-Management
-tags:  
+tags:
 - public
 - knowledge
 title: Risk Management
@@ -21,7 +21,7 @@ Risiken beurteilen
 - Risiken bewerten
 Risiken behandeln: Strategien
 
-[[ISO27005]] als Standart in der [[Informationssicherheit]]
+[[ISO27005]] als Standart in der [[Information Security]]
 
 Interativer Prozess
 

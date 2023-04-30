@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: 
+tags:
+- public
+- knowledge
 title: NIST CSF
 date created: "2023-03-14T07:03:06"
 date modified: "2023-03-14T07:11:44"

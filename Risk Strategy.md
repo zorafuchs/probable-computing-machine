@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: 
+tags:
+- public
+- knowledge
 title: Risk Strategy
 date created: "2023-03-07T05:10:12"
 date modified: "2023-03-07T05:14:35"

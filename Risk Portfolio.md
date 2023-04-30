@@ -1,7 +1,9 @@
 ---
 aliases: 
 - Risiko-Portfolio
-tags: 
+tags:   
+- public
+- knowledge
 title: Risk Portfolio
 date created: "2023-03-07T04:56:18"
 date modified: "2023-03-07T05:03:15"

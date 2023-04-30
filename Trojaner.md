@@ -1,7 +1,7 @@
 ---
 aliases: 
 - Trojanisches Pferd
-tags:  
+tags:
 - public
 - knowledge
 title: Trojaner

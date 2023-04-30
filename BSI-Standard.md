@@ -1,6 +1,8 @@
 ---
 aliases: 
-tags: 
+tags:
+- public
+- knowledge
 title: BSI-Standard
 date created: "2023-03-14T08:29:45"
 date modified: "2023-03-14T08:29:53"

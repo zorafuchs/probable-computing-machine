@@ -1,7 +1,8 @@
 ---
 aliases: 
-tags: 
+tags:   
 - public
+- knowledge
 title: Backup
 date created: "2023-02-28T06:15:03"
 date modified: "2023-02-28T06:17:39"

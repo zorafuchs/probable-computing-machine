@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: 
+tags:   
+- public
 - knowledge
 title: Effective Logging
 date created: "2023-03-21T08:35:47"

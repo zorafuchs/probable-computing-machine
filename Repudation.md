@@ -1,7 +1,8 @@
 ---
 aliases: 
 - Abstreiten
-tags:  
+tags:
+- public
 - knowledge
 title: Repudation
 date created: "2023-03-21T07:44:43"

@@ -1,0 +1,14 @@
+---
+aliases: 
+tags: 
+- public
+- knowledge
+title: Restrisiko
+date created: "2023-03-07T05:16:21"
+date modified: "2023-03-07T05:17:15"
+---
+
+# Restrisiko
+
+Verbleibendes Risiko nachdem alle Massnahmen angewandt wurden
+- Muss nicht akzeptiert werden

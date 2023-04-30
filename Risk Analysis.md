@@ -1,7 +1,7 @@
 ---
 aliases: 
 - Risikoanalyse
-tags:   
+tags:
 - public
 - knowledge
 title: Risk Analysis
