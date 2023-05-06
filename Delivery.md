@@ -1,5 +1,6 @@
 ---
 aliases: 
+- Deliver
 tags: 
 - public
 - knowledge

@@ -5,9 +5,8 @@ tags:
 - knowledge
 title: Pseudonymisierung
 date created: "2023-02-21T08:30:11"
-date modified: "2023-02-21T08:32:08"
+date modified: "2023-05-06T03:37:26"
 ---
 
 # Pseudonymisierung
-
-Identität ist nicht direkt erkennbar, kann jedoch zurückgeschlossen werden. Im gegensatz zur [[Anonymity|Anonymisierung]]
+Identität ist nicht direkt erkennbar, kann jedoch zurückgeschlossen werden. Im Gegensatz zur [[Anonymity|Anonymisierung]]

@@ -1,20 +1,21 @@
 ---
 aliases: 
 - Risikoanalyse
+- Risikomodellierung
 tags:
 - public
 - knowledge
 title: Risk Analysis
 date created: "2023-03-07T04:27:22"
-date modified: "2023-03-07T08:05:55"
+date modified: "2023-05-06T06:56:47"
 ---
 
 # Risk Analysis
-
 [[ISF_FS23_SW03.pdf#page=35]]
+Was kann schief gehen?
+Bedrohungen bestimmen / Risiken bewerten
 
 ## Quantitative Risikoanalyse
-
 - Die an der Risikoanalyse beteiligten Grössen sollen numerisch exakt berechnet werden
 - Der monetäre Wert von Assets muss genau bekannt sein
 - Die Eintrittswahrscheinlichkeit muss genau berechnet werden
@@ -34,7 +35,6 @@ Massnahmenbewertung
 -> Die Korrekete Veränderung muss sich gegenüber false positive und false negative lohnen
 
 ## Qualitative Risikoanalyse
-
 Die an der Risikoanalyse beteiligten Grössen werden anhand einer mehrstufigen Skala nur eingeschätzt, z. B. Schadensausmass „4‟ auf einer 5-stufigen Skala
 
 Definition Schadensausmass
@@ -52,9 +52,8 @@ Definition Eintritthäufigkeit
 - Sehr oft / certain
 
 ## Typen
-
 [[ISF_FS23_SW03.pdf#page=49]]
 
-- Detailierte Risikoanalyse
-- Grundschutzansatz
-- Kombinierter Ansatz
+- Detailierte [[Risk Analysis|Risikoanalyse]]
+- Grundschutzansatz [[IT-Grundschutz-Kompendium|IT-Grundschutz nach BSI]]
+- Kombinierter Ansatz [[IT-Grundschutz-Kompendium#Kombinierter Ansatz Mit BSI-Standard]]

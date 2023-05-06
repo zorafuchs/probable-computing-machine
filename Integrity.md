@@ -1,26 +1,22 @@
 ---
 aliases: 
 - Integrität
+- Echtheit
 tags:   
 - public
 - knowledge
 title: Integrity
 date created: "2023-03-21T07:06:04"
-date modified: "2023-03-21T07:07:48"
+date modified: "2023-05-06T02:55:01"
 ---
 
 # Integrity
+Write Zugriff
 
 Keine zufällige oder böswillige manipulationen und veränderungen von Daten
 - HASH-Werte
 - Prüfsummen (IBAN, Kreditkarten, etc)
 - ISBN (Buchnummern)
 
-## Authentizität
-
-Daten kommen von der Person, von der wir denken
-- Message-Authentication-Codes
-
-## Nicht-Abstreitbarkeit
-
-Digitale Signatur mittels Private key stellt sicher das eine bestimmte Person unterschrieben hat
+Teil der [[Non-repudiation]]
+Verbunden mit [[Authenticity|Authentizität]]

@@ -7,11 +7,26 @@ tags:
 - knowledge
 title: Information Security
 date created: "2023-02-21T07:37:47"
-date modified: "2023-04-29T09:35:55"
+date modified: "2023-05-06T09:17:14"
 ---
 
 # Information Security
-Immer auch ein Business-Case
+Schutz von [[Data]] und [[Information]] jeglicher Art in jeglicher Form. Zum Beispiel:
+- Datenträger
+- Kommunikationsdaten
+- [[Data|Daten]] in flüchtigen Speichern (PC-[[RAM]], Netzwerkkomponenten)
+- papiergebundene Daten
+- Mikrofiche ??
+- Filme
+- Sprachaufzeichnungen
+- Texte und Bilder auf Flip Charts
+- Wissen eines Menschen selbst (Hirn).
+
+Immer auch ein Business-Case!
+
+[[Skript_IT-Sicherheit_Basics_final.pdf#page=5]]
+
+Beispiel: Mitarbeiter zur Verschwiegenheit verpflichten
 
 ## 3 Säulen
 - Technik - kaufen, konfigurieren

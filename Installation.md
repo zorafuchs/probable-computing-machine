@@ -1,5 +1,6 @@
 ---
 aliases: 
+- Install
 tags:
 - public
 - knowledge

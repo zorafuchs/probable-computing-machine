@@ -5,13 +5,12 @@ tags:
 - knowledge
 title: Design Patterns
 date created: "2023-03-21T08:21:07"
-date modified: "2023-03-21T10:46:52"
+date modified: "2023-05-06T07:17:38"
 ---
 
 # Design Patterns
 
 ## Sichere Systeme
-
 1. [[Keeping things simple]]
 2. [[Zero Trust]]
 3. Design by Contract
@@ -21,5 +20,5 @@ date modified: "2023-03-21T10:46:52"
 7. Separation of Privilege
 8. Consider the Human Factor
 9. [[Effective Logging]]
-10. Fail Securely
+10. Fail Safe
 11. [[Built in, not Bolt on]]
